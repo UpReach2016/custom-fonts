@@ -1,10 +1,6 @@
 @font-face {
     font-family: 'Futura';
-    src: url('https://github.com/UpReach2016/custom-fonts/raw/main/FUTURA-LIGHT.eot'); /* IE9 Compat Modes */
-    src: url('https://github.com/UpReach2016/custom-fonts/raw/main/FUTURA-LIGHT.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
-         url('https://github.com/UpReach2016/custom-fonts/raw/main/FUTURA-LIGHT.woff2') format('woff2'), /* Super Modern Browsers */
-         url('https://github.com/UpReach2016/custom-fonts/raw/main/FUTURA-LIGHT.woff') format('woff'), /* Pretty Modern Browsers */
-         url('https://github.com/UpReach2016/custom-fonts/raw/main/FUTURA-LIGHT.TTF') format('truetype'); /* Safari, Android, iOS */
+    src: url('https://github.com/UpReach2016/custom-fonts/raw/main/FUTURA-LIGHT.woff2') format('woff2');
     font-weight: normal;
     font-style: normal;
 }
